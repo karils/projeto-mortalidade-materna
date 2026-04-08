@@ -1,4 +1,4 @@
-# projeto-mortalidade-materna
+# 📊 Projeto de Análise de Dados: Mortalidade Materna no Brasil
 
 # 📊 Análise da Mortalidade Materna no Brasil (2009–2023)
 
@@ -54,6 +54,11 @@ Altos índices indicam falhas no acesso a cuidados médicos, desigualdade social
 ## 📈 Dashboard
 
 👉 https://lookerstudio.google.com/reporting/93081e95-9982-4d64-bfdb-67e7081a6078
+
+
+## 🌍 Impacto do Projeto
+
+Este projeto demonstra como a análise de dados pode apoiar políticas públicas, permitindo identificar períodos críticos e orientar ações para redução da mortalidade materna.
 
 ---
 
