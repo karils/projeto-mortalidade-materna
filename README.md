@@ -53,7 +53,7 @@ Altos índices indicam falhas no acesso a cuidados médicos, desigualdade social
 
 ## 📈 Dashboard
 
-👉 (cole aqui o link do Looker Studio)
+👉 https://lookerstudio.google.com/reporting/93081e95-9982-4d64-bfdb-67e7081a6078
 
 ---
 
